@@ -1,0 +1,9 @@
+.card {
+    width: 100%;
+    display: flex;
+
+}
+
+.right {
+    color: gray
+}
